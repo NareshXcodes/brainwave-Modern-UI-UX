@@ -1,14 +1,19 @@
 # BrainWave - The AI Chatting App
 This My First Modern UI/UX Frontend Project 
 
-
-To Run :
 ```
-cd brainwave-Modern-UI/UX
+# Clone the repository
+git clone https://github.com/NareshXcodes/developer-portfolio.git
 
-//install all dependies 
+# Navigate to project directory
+cd developer-portfolio
+
+# Install dependencies
 npm install
 
-//run the project
+# Start development server
 npm run dev
+
+# Open your browser
+# Visit http://localhost:5173
 ```
