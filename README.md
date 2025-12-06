@@ -8,6 +8,8 @@ This My First Modern UI/UX Frontend Project
 4. `npm react-just-parallax`
 
 
+
+
 ## Getting Started :
 ```
 # Clone the repository
