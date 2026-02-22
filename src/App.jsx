@@ -1,5 +1,4 @@
 import ButtonGradient from "./assets/svg/ButtonGradient.jsx";
-import Button from './components/Button.jsx';
 import Header from './components/Header.jsx';
 import Hero from './components/Hero.jsx';
 
